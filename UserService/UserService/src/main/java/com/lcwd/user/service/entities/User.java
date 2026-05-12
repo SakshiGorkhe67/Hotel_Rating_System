@@ -10,7 +10,7 @@ import lombok.Setter;
 @Entity
 @Table(name="micro_users")
 @Setter
-@Getter
+
 public class User {
     @Id
     @Column(name="ID")
