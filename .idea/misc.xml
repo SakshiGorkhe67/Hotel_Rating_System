@@ -5,15 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/UserService/UserService/pom.xml" />
-      </list>
-    </option>
-    <option name="enabledProfiles">
-      <list>
-        <option value="native" />
+        <option value="$PROJECT_DIR$/HotelService/HotelService/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_26" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
