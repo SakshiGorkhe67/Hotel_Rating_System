@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b559ab1d-7f0e-452b-b0df-8a57291bc17c" name="Changes" comment="Complete Hotel Service">
-      <change afterPath="$PROJECT_DIR$/RatingService/RatingService/src/main/java/com/lcwd/ratingservice/controllers/RatingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RatingService/RatingService/src/main/java/com/lcwd/ratingservice/entities/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RatingService/RatingService/src/main/java/com/lcwd/ratingservice/repository/RatingRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RatingService/RatingService/src/main/java/com/lcwd/ratingservice/service/RatingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RatingService/RatingService/src/main/java/com/lcwd/ratingservice/service/impl/RatingServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RatingService/RatingService/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b559ab1d-7f0e-452b-b0df-8a57291bc17c" name="Changes" comment="Complete Rating Service">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RatingService/RatingService/src/main/java/com/lcwd/ratingservice/controllers/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RatingService/RatingService/src/main/java/com/lcwd/ratingservice/controllers/RatingController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778706783176</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Complete Rating Service">
+      <option name="closed" value="true" />
+      <created>1778876178345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778876178345</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +130,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete Hotel Service" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Hotel Service" />
+    <MESSAGE value="Complete Rating Service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Rating Service" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
